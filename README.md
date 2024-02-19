@@ -26,14 +26,12 @@ To use the calculator, run the `main.py` script. Follow the on-screen instructio
 
 Unit tests are located in the `tests` folder. To run the tests, execute the following command:
 
+```bash
 python -m unittest discover tests
+```
 
 ## Contributors
 
 - Cory Jennings
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
-
-```
-
-```
